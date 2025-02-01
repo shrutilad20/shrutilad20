@@ -15,7 +15,10 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - **Databases:** MySQL, MongoDB
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutilad20&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrutilad20&theme=radical)
 
 ## 🌍 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/shrutilad35/)
