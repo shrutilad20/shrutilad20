@@ -1,4 +1,4 @@
-# Hi there, I'm Shruti Prashant Lad 👋
+# Hi there, I'm Shruti Prashant Lad👋
 
 Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and continuous learning.
 
