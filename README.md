@@ -52,11 +52,11 @@ Welcome to my GitHub! I'm a software developer in the making — enthusiastic ab
 
 📫 Reach me at **[shrutilad35@gmail.com](mailto:shrutilad35@gmail.com)**  
 💼 Connect on [**LinkedIn**](https://www.linkedin.com/in/shrutilad35/)  
-🌐 View my [**Portfolio**](https://your-portfolio-link.com) *(update this when live)*  
-📁 Check out my [**Resume**](#) *(optional: include a public link to your resume)*
+🌐 View my [**Portfolio**](https://shrutilad.netlify.app/)  
+📁 Check out my [**Resume**](#) 
 
 ---
 
 > *"Code with purpose. Learn with passion. Share with pride."* 💻✨
 
-Thanks for stopping by! 🚀
+Thanks! 🚀
