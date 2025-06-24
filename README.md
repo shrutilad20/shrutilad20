@@ -42,9 +42,22 @@ Welcome to my GitHub! I'm a software developer in the making — enthusiastic ab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrutilad20&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilad20&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shrutilad20&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilad20&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutilad20&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+## ⚡ Recent GitHub Activity
+
+<!-- GitHub activity graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shrutilad20&theme=tokyo-night&hide_border=true)
+
+
 
 ---
 
