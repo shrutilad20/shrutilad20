@@ -1,71 +1,85 @@
-# 👋 Hi there, I'm Shruti Prashant Lad!
+🌟 Hi there, I'm Shruti Prashant Lad!
+Software Developer | Java Backend | Full Stack | Problem Solver
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&color=6A5ACD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Developer+in+the+Making;Java+%7C+Spring+Boot+%7C+React+%7C+MERN;Passionate+about+DSA+%26+System+Design;Open+Source+Contributor" /> </p>
+🚀 About Me
 
-Welcome to my GitHub! I'm a software developer in the making — enthusiastic about building impactful solutions, learning new technologies, and contributing to the open-source community.
+🌱 Final-year Computer Engineering student at PCET’s NMIET
+💼 Software Developer passionate about Java Backend & Full-Stack Development
+⚡ Exploring IBMi, Cloud Computing, and Postman API Development
+💡 Love building real-world products using Java, Spring Boot, React, and MERN
+📘 Practicing DSA, Aptitude, and Interview Prep
+🤝 Active in open-source, team collaborations, and tech communities
+✨ Vision: Build systems that make life easier, smarter, and scalable
 
----
-
-## 🚀 About Me
-
-🎓 Final-year Computer Engineering student at **PCET's Nutan Maharashtra Institute Of Engineering and Technology**  
-💡 Always exploring new technologies, currently deep-diving into **IBMi**, **Postman API**, and **Cloud Computing**  
-💻 Love working on full-stack projects using **Java**, **React**, and the **MERN stack**  
-📚 Actively practicing **DSA** and **Aptitude** for placements  
-🤝 Contributing to open-source & collaborative projects whenever I can
-
----
-
-## 🧰 Tech Toolbox
-
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrutilad20&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilad20&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## ⚡ GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutilad20&theme=tokyo-night&hide_border=true" />
-</p>
+🧰 Tech Toolbox
+🖥️ Languages
 
 
----
 
-## 🔗 Let's Connect
 
-📫 Reach me at **[shrutilad35@gmail.com](mailto:shrutilad35@gmail.com)**  
-💼 Connect on [**LinkedIn**](https://www.linkedin.com/in/shrutilad35/)  
-🌐 View my [**Portfolio**](https://shrutilad.netlify.app/)  
-📁 Check out my [**Resume**](#) 
 
----
 
-> *"Code with purpose. Learn with passion. Share with pride."* 💻✨
 
-Thanks! 🚀
+
+⚙️ Frameworks & Libraries
+
+
+
+
+
+
+
+
+🗄️ Databases
+
+
+
+
+
+
+🛠️ Tools & Platforms
+
+
+
+
+
+
+
+
+
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shrutilad20&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilad20&theme=tokyonight&hide_border=true" width="49%" /> </p>
+🌌 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutilad20&theme=tokyo-night&hide_border=true" /> </p>
+🏆 Achievements
+
+🥇 National Level Project Winner — Foreign Language E-Learning Platform
+
+🥉 Tech Quest 3rd Rank — UI/UX & Problem Solving
+
+⭐ 4★ Java Badge on HackerRank
+
+🧑‍🏫 Team Lead at UptoSkills AI Interview Project
+
+🚀 Infosys Pragati Program — Completed with excellence
+
+📚 Currently Learning
+
+✔ Spring Boot Microservices
+✔ MySQL + PostgreSQL Optimization
+✔ System Design Fundamentals
+✔ Cloud (AWS)
+✔ DSA for placements
+
+🔗 Let's Connect
+
+📧 Email: shrutilad35@gmail.com
+
+💼 LinkedIn: Shruti Lad
+
+🌐 Portfolio: https://shrutilad.netlify.app/
+
+📄 Resume: (Attach link when uploaded)
+
+<p align="center"> <b>“Code with purpose. Learn with passion. Build with confidence.”</b> 💻✨ </p> <p align="center">Thanks for visiting! 🌟</p>
