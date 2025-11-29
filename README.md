@@ -1,85 +1,133 @@
-🌟 Hi there, I'm Shruti Prashant Lad!
-Software Developer | Java Backend | Full Stack | Problem Solver
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&color=6A5ACD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Developer+in+the+Making;Java+%7C+Spring+Boot+%7C+React+%7C+MERN;Passionate+about+DSA+%26+System+Design;Open+Source+Contributor" /> </p>
-🚀 About Me
+<!-- ====================== CUSTOM BANNER (INLINE SVG) ====================== -->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/shrutilad20/shrutilad20/main/assets/banner.svg" alt="Shruti Lad Banner"/>
+</p>
 
-🌱 Final-year Computer Engineering student at PCET’s NMIET
-💼 Software Developer passionate about Java Backend & Full-Stack Development
-⚡ Exploring IBMi, Cloud Computing, and Postman API Development
-💡 Love building real-world products using Java, Spring Boot, React, and MERN
-📘 Practicing DSA, Aptitude, and Interview Prep
-🤝 Active in open-source, team collaborations, and tech communities
-✨ Vision: Build systems that make life easier, smarter, and scalable
+# 👋 Hi, I'm **Shruti Prashant Lad**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=6A5ACD&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Java+Backend;Full+Stack+Developer+%7C+Spring+Boot+%7C+React;Open+Source+Contributor;Building+real+world+projects;Always+learning+%26+growing!">
+</p>
 
-🧰 Tech Toolbox
-🖥️ Languages
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#contact">Contact</a>
+</p>
 
+<!-- ======================= WAVE SEPARATOR ========================= -->
+<div align="center">
+  <svg viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:50px;">
+    <path d="M0,0 C300,100 900,0 1200,100 L1200,120 L0,120 Z" fill="#0f172a"/>
+  </svg>
+</div>
 
+---
 
+# 🔥 About
+- 🎓 Final-year Computer Engineering student at **PCET’s NMIET**
+- 💼 Focus: **Java Backend**, **Spring Boot**, **React**, **Node.js**
+- ☁️ Learning: **AWS**, **IBMi**, **Postman APIs**, **Cloud Computing**
+- 📚 Preparing for placements — **DSA**, **Aptitude**, **System Design**
+- 🤝 Passionate about open-source collaboration
 
+---
 
+# 🧰 Skills
 
+### 💻 Languages  
+`Java` • `JavaScript` • `Python` • `SQL`  
 
+### ⚙️ Frameworks  
+`Spring Boot` • `React.js` • `Node.js` • `Express.js`  
 
-⚙️ Frameworks & Libraries
+### 🗄️ Databases  
+`MySQL` • `PostgreSQL` • `MongoDB`  
 
+### 🛠 Tools  
+`Git` • `GitHub` • `Postman` • `AWS` • `JMeter`  
 
+---
 
+# 🚀 Projects (Pinned)
 
+### 🔹 **AI Interview**
+Full-stack AI-powered mock interview system  
+Tech: React, Node.js, MongoDB  
 
+### 🔹 **MindMosaic**
+Spring Boot + PostgreSQL backend for a dementia care support system  
 
+### 🔹 **StudentStash**
+Student marketplace built using Java + Spring Boot + MySQL  
 
+---
 
-🗄️ Databases
+# 📈 Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shrutilad20&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilad20&theme=tokyonight" width="48%"/>
+</p>
 
+---
 
+# 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shrutilad20&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+</p>
 
+---
 
+# 🌌 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutilad20&theme=tokyo-night&hide_border=true"/>
+</p>
 
-🛠️ Tools & Platforms
+---
 
+# 👀 Visitors
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shrutilad20" />
+</p>
 
+---
 
+# 🌙 Portfolio (Dark-Mode Optimized)
+Check out my portfolio here:  
+👉 **https://shrutilad.netlify.app/**
 
+> Uses adaptive dark/light UI + interactive project previews.
 
+---
 
+# 🤖 Auto-Updating Section (Updated Daily)
+Below section updates automatically via GitHub Actions.
 
+<!-- START_SECTION:AUTOGEN -->
+📌 *Daily Note:* Keep building — small progress compounds!  
+🕒 *Updated on:* (Auto-filled daily)  
+_Last updated automatically via GitHub Actions._
+<!-- END_SECTION:AUTOGEN -->
 
+---
 
+# 📫 Contact
+📧 Email: **shrutilad35@gmail.com**  
+💼 LinkedIn: **https://www.linkedin.com/in/shrutilad35/**  
+🌐 Portfolio: **https://shrutilad.netlify.app/**  
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shrutilad20&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilad20&theme=tokyonight&hide_border=true" width="49%" /> </p>
-🌌 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutilad20&theme=tokyo-night&hide_border=true" /> </p>
-🏆 Achievements
+---
 
-🥇 National Level Project Winner — Foreign Language E-Learning Platform
+<p align="center">
+  <b>“Code with purpose. Learn with passion. Share with pride.”</b>
+</p>
 
-🥉 Tech Quest 3rd Rank — UI/UX & Problem Solving
+<!-- ================== FOOTER WAVE =================== -->
+<div align="center">
+  <svg viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:50px;">
+    <path d="M0,100 C300,0 900,100 1200,0 L1200,120 L0,120 Z" fill="#001219"/>
+  </svg>
+</div>
 
-⭐ 4★ Java Badge on HackerRank
-
-🧑‍🏫 Team Lead at UptoSkills AI Interview Project
-
-🚀 Infosys Pragati Program — Completed with excellence
-
-📚 Currently Learning
-
-✔ Spring Boot Microservices
-✔ MySQL + PostgreSQL Optimization
-✔ System Design Fundamentals
-✔ Cloud (AWS)
-✔ DSA for placements
-
-🔗 Let's Connect
-
-📧 Email: shrutilad35@gmail.com
-
-💼 LinkedIn: Shruti Lad
-
-🌐 Portfolio: https://shrutilad.netlify.app/
-
-📄 Resume: (Attach link when uploaded)
-
-<p align="center"> <b>“Code with purpose. Learn with passion. Build with confidence.”</b> 💻✨ </p> <p align="center">Thanks for visiting! 🌟</p>
