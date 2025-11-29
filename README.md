@@ -68,9 +68,10 @@ Java + Spring Boot + MySQL study-material exchange platform
 # 📊 **Stats** <a id="stats"></a>
 
 <p align="center">
-  <img alt="Shruti's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=shrutilad20&show_icons=true&theme=tokyonight&count_private=true" />
-  <img alt="Streak Stats" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilad20&theme=tokyonight"/>
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=shrutilad20&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=shrutilad20&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
+
 
 ---
 
