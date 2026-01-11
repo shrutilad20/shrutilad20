@@ -13,8 +13,10 @@
 ---
 
 <!-- ================== CONTRIBUTION ART ================== -->
-## 🌌 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrutilad20&theme=github-dark&hide_border=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/demo.svg" />
+</p>
+
 
 
 ---
