@@ -1,53 +1,64 @@
-<!-- ====================== BANNER ====================== -->
+<!-- ====================== HERO BANNER ====================== -->
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/shrutilad20/shrutilad20/main/assets/banner.svg" alt="Shruti Lad Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shruti Prashant Lad</h1>
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
+<h3 align="center">Java Backend • Full Stack • Open Source</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=6A5ACD&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Full+Stack+Developer+(Spring+Boot+%2B+React);MERN+Stack+Developer;Open+Source+Contributor;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=8A2BE2&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+%2B+REST+APIs;Full+Stack+Developer+(React+%2B+MERN);Cloud+%26+AWS+Learner;Always+Building+%26+Improving" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrutilad20&style=flat-square&color=blueviolet" />
 </p>
 
 ---
 
-## 🧩 Tech Stack
+## 🌟 About Me
+
+🎓 Final-year **Computer Engineering** student at **PCET’s NMIET**  
+💻 Passionate about **Java Backend & System Design**  
+🌐 Building **full-stack web applications**  
+☁️ Learning **AWS, Cloud & DevOps basics**  
+📚 Practicing **DSA & Aptitude for placements**  
+🤝 Open-source contributor & team leader  
+
+---
+
+## 🧠 Tech Universe
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nodejs,express,spring,mysql,postgres,mongodb,git,github,postman,aws,figma,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,html,css,js,python,mysql,postgres,mongodb,git,github,postman,aws,figma,vscode&perline=7" />
 </p>
 
 ---
 
-## 🔥 About Me
-- 🎓 Final-year **Computer Engineering** student at **PCET’s NMIET**
-- 💻 Strong in **Java Backend**, **Spring Boot**, **REST APIs**
-- 🌐 Full-stack experience with **React & MERN**
-- ☁️ Exploring **AWS, Cloud Computing, IBMi**
-- 📚 Preparing for **DSA, Aptitude & System Design**
-- 🤝 Open-source contributor & team lead experience
+## 🚀 Featured Projects
 
----
-
-## 🚀 Projects (Pinned)
-
-### 🔹 AI Interview  
-AI-powered mock interview platform  
+### 🧠 AI Interview Platform
+> AI-powered mock interview system with real-time feedback  
 **Tech:** React • Node.js • MongoDB  
 
-### 🔹 MindMosaic  
-Healthcare & memory-care backend system  
+---
+
+### 🏥 MindMosaic
+> Healthcare & memory-care backend platform  
 **Tech:** Spring Boot • PostgreSQL  
 
-### 🔹 StudentStash  
-Study-material buy/sell platform for students  
+---
+
+### 📚 StudentStash
+> Buy & sell study materials for students  
 **Tech:** Java • Spring Boot • MySQL  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrutilad20&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrutilad20&show_icons=true" />
 </p>
 
 <p align="center">
@@ -56,40 +67,39 @@ Study-material buy/sell platform for students
 
 ---
 
-## 🌌 Contribution Graph
+## 🌌 Contribution Journey
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutilad20&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutilad20&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 👀 Visitors
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shrutilad20" />
-</p>
+## 🧭 Learning & Growth
+
+- Java Backend Architecture
+- System Design Fundamentals
+- AWS & Cloud Computing
+- Advanced DSA Patterns
+- Open-source collaboration
 
 ---
 
-## 🌐 Portfolio
-🔗 https://shrutilad.netlify.app/
+## 🌐 Portfolio & Links
 
----
-
-## 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shrutilad35/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://shrutilad.netlify.app/">
-    <img src="https://skillicons.dev/icons?i=netlify" />
-  </a>
-  <a href="mailto:shrutilad35@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  🌍 <a href="https://shrutilad.netlify.app/">Portfolio</a> •
+  💼 <a href="https://www.linkedin.com/in/shrutilad35/">LinkedIn</a> •
+  ✉️ <a href="mailto:shrutilad35@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <b>“Code with purpose. Learn with passion. Share with pride.”</b>
+  <b>✨ “Code with clarity. Build with purpose. Grow with consistency.” ✨</b>
+</p>
+
+<!-- ====================== FOOTER ====================== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 </p>
