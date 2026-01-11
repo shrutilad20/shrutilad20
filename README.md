@@ -14,8 +14,9 @@
 
 <!-- ================== CONTRIBUTION ART ================== -->
 <p align="center">
-  <img src="https://gitartwork.onrender.com/username/shrutilad20" alt="GitHub Contribution Art"/>
+  <img src="https://github-contribution-art.vercel.app/api?username=shrutilad20" alt="GitHub Contribution Art"/>
 </p>
+
 
 ---
 
@@ -58,12 +59,14 @@ Study-material buy/sell platform for students
   <img src="https://streak-stats.demolab.com?user=shrutilad20&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrutilad20&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shrutilad20&theme=tokyonight&no-frame=true&row=1"/>
 </p>
+
 
 ---
 
