@@ -1,7 +1,4 @@
 <!-- ====================== HERO BANNER ====================== -->
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/shrutilad20/shrutilad20/main/assets/banner.svg" alt="Shruti Lad Banner"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Shruti Prashant Lad</h1>
 <h3 align="center">Java Backend • Full Stack • Open Source</h3>
