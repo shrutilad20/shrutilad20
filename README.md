@@ -13,9 +13,8 @@
 ---
 
 <!-- ================== CONTRIBUTION ART ================== -->
-<p align="center">
-  <img src="https://github-contribution-art.vercel.app/api?username=shrutilad20" alt="GitHub Contribution Art"/>
-</p>
+## 🌌 Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrutilad20&theme=github-dark&hide_border=true)
 
 
 ---
